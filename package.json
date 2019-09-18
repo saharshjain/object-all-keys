@@ -1,0 +1,25 @@
+{
+    "name": "fetch-all-values",
+    "version": "1.0.0",
+    "description": "Function to fetch all values of an object of given key",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/saharshjain/object-all-keys.git"
+    },
+    "keywords": [
+        "object",
+        "keys",
+        "extract keys",
+        "all values"
+    ],
+    "author": "Saharsh Jain <saharshjain94@outlook.com> (https://github.com/saharshjain)",
+    "license": "GPL-3.0",
+    "bugs": {
+        "url": "https://github.com/saharshjain/object-all-keys/issues"
+    },
+    "homepage": "https://github.com/saharshjain/object-all-keys#readme"
+}
