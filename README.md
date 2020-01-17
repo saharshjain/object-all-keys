@@ -63,7 +63,3 @@ console.log(finder.fetchAllValues(json,"id"));
 //  '0001' ]
 
 ```
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
