@@ -48,6 +48,20 @@ var json = {
 var finder = new fetchObjectValues.util();
 console.log(finder.fetchAllValues(json,"id"));
 
+//Output
+//[ '1001',
+//  '1002',
+//  '1003',
+//  '1004',
+//  '5001',
+//  '5002',
+//  '5005',
+//  '5007',
+//  '5006',
+//  '5003',
+//  '5004',
+//  '0001' ]
+
 ```
 
 ## License
