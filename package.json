@@ -1,6 +1,6 @@
 {
     "name": "object-all-values",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Function to fetch all values of an object of given key",
     "main": "index.js",
     "scripts": {
@@ -14,7 +14,8 @@
         "object",
         "keys",
         "extract values",
-        "all values"
+        "all values",
+        "nested"
     ],
     "author": "Saharsh Jain <saharshjain94@outlook.com> (https://github.com/saharshjain)",
     "license": "GPL-3.0",
