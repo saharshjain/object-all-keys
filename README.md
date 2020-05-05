@@ -16,10 +16,10 @@ npm i object-all-values --save
 4. Return an array of all found values.
 
 ```
-var fetchObjectValues = require("object-all-values");
+const fetchObjectValues = require("object-all-values");
 
 
-var json = {
+let json = {
 	"id": "0001",
 	"type": "donut",
 	"name": "Cake",
@@ -45,7 +45,7 @@ var json = {
 			{ "id": "5004", "type": "Maple" }
 		]
 };
-var finder = new fetchObjectValues.util();
+let finder = new fetchObjectValues.util();
 console.log(finder.fetchAllValues(json,"id"));
 
 //Output
@@ -63,3 +63,8 @@ console.log(finder.fetchAllValues(json,"id"));
 //  '0001' ]
 
 ```
+
+
+### Bugs? Issues?
+
+ In case of bugs or other issues please raise and issue or contact me directly to fix it ASAP. If interested in open source raise a PR yourself.
