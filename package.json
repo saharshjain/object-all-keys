@@ -1,6 +1,6 @@
 {
     "name": "object-all-values",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "Function to fetch all values of an object of given key",
     "main": "index.js",
     "scripts": {
